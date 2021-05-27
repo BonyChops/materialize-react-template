@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <div className="section no-pad-bot" id="index-banner">
+      <Section className="no-pad-bot" id="index-banner">
         <Container>
           <br /><br />
           <h1 className="header center orange-text">Starter Template</h1>
@@ -51,7 +51,7 @@ function App() {
           </Section>
         </Container>
         <Footer />
-      </div>
+      </Section>
     </div>
   );
 }
