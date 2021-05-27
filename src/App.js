@@ -8,17 +8,17 @@ function App() {
     <div className="App">
       <Header />
       <div className="section no-pad-bot" id="index-banner">
-        <div className="container">
+        <Container>
           <br /><br />
           <h1 className="header center orange-text">Starter Template</h1>
-          <div className="row center">
+          <Row className="center">
             <h5 className="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
-          </div>
-          <div className="row center">
+          </Row>
+          <Row className="center">
             <a href="http://materializecss.com/getting-started.html" id="download-button" className="btn-large waves-effect waves-light orange">Get Started</a>
-          </div>
+          </Row>
           <br /><br />
-        </div>
+        </Container>
 
         <Container>
           <Section>
