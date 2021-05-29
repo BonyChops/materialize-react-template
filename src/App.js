@@ -50,8 +50,8 @@ function App() {
             </Row>
           </Section>
         </Container>
-        <Footer />
       </Section>
+      <Footer />
     </div>
   );
 }
