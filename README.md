@@ -4,5 +4,5 @@ Transplant to react from [Starter Template - materialize](https://materializecss
 ## Get Started
 1. Use this template to create own repository
 1. Clone your repository
-1. `npm i`
+1. `npm i --legacy-peer-deps`
 1. `npm start`
